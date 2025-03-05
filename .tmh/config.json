@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/gtatunnhhdkt/DefaultTenant/testmanager_",
+  "defaultProject": {
+    "id": "50631a7d-0254-0000-f8c4-0b47f14cc6da",
+    "name": "Test Project",
+    "key": "TP1"
+  }
+}
