@@ -108,14 +108,15 @@
       <AssemblyReference>UiPath.Testing</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap:VirtualizedContainerService.HintSize="1566,1521" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap:VirtualizedContainerService.HintSize="1276,1609" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <ui:Comment sap:VirtualizedContainerService.HintSize="484,88" sap2010:WorkflowViewState.IdRef="Comment_1" Text="// Blank Test Case" />
-    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Edge SHA1 online" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="484,1410" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="6073de19-7e81-4961-b922-d9ae4d7c97ad" Version="V2">
+    <ui:Comment sap:VirtualizedContainerService.HintSize="484,88" sap2010:WorkflowViewState.IdRef="Comment_2" Text="// Blank Test Case" />
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="test1" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="484,1410" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="6073de19-7e81-4961-b922-d9ae4d7c97ad" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
